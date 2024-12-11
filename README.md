@@ -1,0 +1,1 @@
+This prject about rendom message creater for learning prspective.
